@@ -192,7 +192,7 @@ Prediction value of mean:
 
 
 
-![logistic regression using gradient descent](sam.png)
+
 
 
 ## Result:
