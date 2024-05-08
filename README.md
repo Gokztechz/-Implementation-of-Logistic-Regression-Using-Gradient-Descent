@@ -112,25 +112,63 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 Array Value of x:
+
+
 ![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/12e7f4e2-94ad-4900-93be-006477415402)
+
+
 Array Value of y:
+
+
 ![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/f582dcdc-dee3-452b-be78-63e6a6ae1168)
+
+
 Exam 1 - score graph:
+
+
 ![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/5dcb3593-811f-4540-bec1-e21890b75b9a)
+
+
 Sigmoid function graph:
+
+
 ![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/b79b211d-0c88-444b-b692-f6062770c610)
+
+
 X_train_grad value:
+
+
 ![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/e1d2add1-bfe5-492b-a0c0-9ae63a0202f5)
+
+
 Y_train_grad value:
+
+
 ![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/a17bdf06-29a2-4693-886a-24fe06d6dc41)
+
+
 Print res.x:
+
+
 ![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/bc2c7ce4-a8ea-488b-98ff-7d96de751fbc)
+
+
 Decision boundary - graph for exam score:
+
+
 ![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/d1f9197e-3890-4c52-8901-04431eb8ba0c)
+
+
 Proability value:
+
+
 ![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/f3693630-629a-40d3-ba75-0251033fb357)
+
+
 Prediction value of mean:
-Prediction value of mean:
+
+
+![image](https://github.com/Gokztechz/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/117667038/045d4432-cd08-4779-90ee-e0daa10b2266)
 
 
 
